@@ -18,7 +18,7 @@ When I'm not coding, I enjoy learning about new technologies and contributing to
 
 | Category           | Skills                                                                 |
 | :----------------- | :--------------------------------------------------------------------- |
-| **Languages** | Python, Java, JavaScript, HTML, CSS, SQL                          |
+| **Languages** | Python, Java, HTML, CSS, SQL                          |
 | **Frameworks & Libraries** | NumPy, Pandas, Scikit-learn, TensorFlow, Spring Boot, React.js, Node.js, Rest API |
 | **Core Concepts** | Data Structures, Algorithms, Object-Oriented Programming, Operating Systems |
 | **Soft Skills** | Problem-solving, Time Management, Team Collaboration, Communication |
