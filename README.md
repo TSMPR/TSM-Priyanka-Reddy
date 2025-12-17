@@ -10,8 +10,6 @@ I'm an AI-driven Software Engineer with a strong foundation in Machine Learning,
 
 I'm skilled in developing powerful APIs with Spring Boot and Java, crafting engaging user experiences with React.js, and building intelligent systems with Python. My goal is to leverage AI and robust software solutions to solve real-world problems.
 
-When I'm not coding, I enjoy learning about new technologies and contributing to interesting projects.
-
 ---
 
 ### My Skillset
