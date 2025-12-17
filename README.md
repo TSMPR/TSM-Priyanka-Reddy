@@ -31,15 +31,15 @@ Here are some projects I'm particularly proud of:
 
 * **AI-Driven Emotion Detection**
     * Developed a real-time facial emotion detection system using OpenCV and DeepFace, simulating embedded multimedia processing.
-    * **[PLEASE REPLACE THIS TEXT WITH YOUR ACTUAL GITHUB REPOSITORY URL or LIVE DEMO LINK FOR THIS PROJECT]**
+    
 
 * **CRAFTCV - Online Resume Builder**
     * Built a full-stack web application using Java, Spring Boot, MySQL, and HTML/CSS/JS that enables users to register, log in, and generate professional resumes with real-time preview and admin panel support.
-    * **[PLEASE REPLACE THIS TEXT WITH YOUR ACTUAL GITHUB REPOSITORY URL or LIVE DEMO LINK FOR THIS PROJECT]**
+
 
 * **AI Agent - Personal Assistant**
     * Built a Python-based voice-interactive assistant using speech recognition, text-to-speech, and APIs for web search, reminders, and system control - emphasizing ethical data handling and user-centric design.
-    * **[PLEASE REPLACE THIS TEXT WITH YOUR ACTUAL GITHUB REPOSITORY URL or LIVE DEMO LINK FOR THIS PROJECT]**
+
 
 ---
 
